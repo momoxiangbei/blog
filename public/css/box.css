@@ -1,0 +1,16 @@
+*{padding: 0px;margin: 0px;}
+a{text-decoration: none;}
+ul{list-style: none;}
+#logo a{width: 260px;height: 60px; font-size: 30px;font-family: "微软雅黑";position: absolute;margin: 20px 0px 0px 20px;}
+.topnav{margin: 30px 0px 0px;float: right;}
+.topnav #navcolor{color: #E15782;}
+.topnav a{font-family: "微软雅黑";margin: 0px 5px;padding: 0px 8px;color: #333;font-size: 18px;}
+.header{width: 1000px;margin:auto;height: 80px;overflow: hidden;border-bottom: 1px solid #EED3E6;}
+.box{width: 1000px;margin: auto;overflow: hidden;}
+.aside{width: 244px;overflow: hidden;margin-top:20px;}
+.left{width:680px;float: left;margin:50px 50px 0px 0px; }
+.new ul{list-style:none;width: 240px;border: 1px solid #EED3E6;padding: 10px 0px;}
+.new li{background: url(../images/heart.jpg) no-repeat; height: 20px;margin: 10px 20px;text-indent: 30px;}
+.new h4{margin: 0px 0px 10px 20px;color: #666;}
+
+

@@ -1,0 +1,4 @@
+*{margin: 0px;padding: 0px;}
+.login{width:300px;position: relative;top: 100px; margin: auto;border: 1px solid #EED3E6;padding: 30px;}
+p{display: block;padding: 10px;}
+input{width: 200px;height: 22px;}

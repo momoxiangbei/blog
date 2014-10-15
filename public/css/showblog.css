@@ -1,0 +1,12 @@
+.box{height: 2000px;}
+.title{font-size: 24px;text-indent: 200px;}
+.author{font-size: 12px;float: right;margin:10px; }
+.data{font-size: 12px;float: right;margin:10px; }
+.text{font-size: 14px;clear: both;}
+.submit{position: relative;top:-20px;left: 20px;}
+.article textarea{width: 640px;height: 800px;border: 1px solid #EED3E6;padding: 20px;line-height: 26px;}
+.namecom{margin: 20px 0px -15px 0px;font-size: 18px;}
+.docomment textarea{width: 400px;height: 52px;border: 1px solid #EED3E6;padding: 20px;line-height: 26px;margin: 20px 0px;}
+.comment .comm{margin-top: 20px;clear: both;}
+.comment .date{margin:0px 250px 10px 0px;   float: right;font-size: 12px;}
+
